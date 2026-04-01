@@ -3026,7 +3026,7 @@ td:last-child {
 
 .section-header::before {
     display       : block;
-    content       : attr(data-num) ".";
+    content       : attr(data-num) "";
     font-family   : var(--type-headings);
     font-weight   : 400;
     font-size     : var(--text-md);
@@ -4000,7 +4000,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    padding-top: var(--vspace-5);
+    padding-top: var(--vspace-1);
 }
 
 .s-about__content {
@@ -4083,7 +4083,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-menu {
-    padding-top: var(--vspace-5);
+    padding-top: var(--vspace-1);
 }
 
 .s-menu__content {
@@ -4380,7 +4380,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-gallery {
-    padding-top: var(--vspace-5);
+    padding-top: var(--vspace-1);
 }
 
 /* ------------------------------------------------------------------- 
