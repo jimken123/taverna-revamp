@@ -96,7 +96,7 @@
 :root {    
    /* font-families
    */
-    --font-1   : "Roboto Flex", Sans-Serif;
+    --font-1   : "Playfair Display", Serif;
     --font-2   : "Playfair Display", Serif;
     --font-mono: Consolas, "Andale Mono", Courier, "Courier New", monospace;
 }
