@@ -4000,7 +4000,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    padding-top: var(--vspace-1);
+    padding-top: var(--vspace-5);
 }
 
 .s-about__content {
